@@ -1,0 +1,17 @@
+{
+  "name": "webscraping_ipl_stats",
+  "version": "1.0.0",
+  "description": "Webscraping espn cricinfo website to find stats of each player of ipl 2020-21 and consolidating these stats into an excel file ",
+  "main": "trial.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "pdfkit": "^0.11.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
