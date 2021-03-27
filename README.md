@@ -10,7 +10,7 @@ a. Runs, balls, sixes , fours, sr for that match
 
 b. date ,venue ,result and opponent name for that match
 
-Example Array Object of player:
+Example Array Object of player(with file name: Ambati Rayudu.json):
 <code><pre>
 [
     {
